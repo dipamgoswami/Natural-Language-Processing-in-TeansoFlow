@@ -1,4 +1,4 @@
-# Natural-Language-Processing-in-TeansoFlow
+# Natural-Language-Processing-in-TensorFlow
 4 different examples of applying Natural Language Processing in TensorFlow
 
 1. This exercise explores the BBC news archive and tokenize the dataset, removing common stopwords. A great source of these stop words can be found from https://github.com/Yoast/YoastSEO.js/blob/develop/src/config/stopwords.js
